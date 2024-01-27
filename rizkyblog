@@ -1,0 +1,22 @@
+{
+  "name": "Rizky Blog",
+  "short_name": "Rizkyblog",
+  "prefer_related_applications": false,
+  "start_url": "https://www.rizkyblog.com",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3291d1",
+  "description": " Seputar Tutorial,Informasi dan teknologi",
+  "lang": "5178749317150305766",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy3qmqP7roGZ6RDWVP7VTY5EK6NO30PTfySlxsWuKs26458nRei56P5MzK2qkxvjVPH3IH7u4_3ntgAXzXTHTqvT7Vv9BdfqivjjPJY1-UiCmVBJUvlDDMrdG28ZljzF3cs-94Qh1LS_JQ2QfjppHraEvN_oHv9YMnDTjEmE447zKNg_DZoPq2G2joMA/s1600/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    "purpose": "any maskable"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijKRojYYKk75JeTWEWF_5PxfUM5LO2namA4MemlRQdgGWdvVikKcpZzzMf798fbusxdUA0HDNqAuq0K02nNX4J__c8gdry8hVXu0me5crftBmDqTDULVtRqjZPu4KUqJoGIz7nKLnpLJfJAMBmx-q1PPV_EQkbnQSs3ZAD5KF07bDzTfL6ftaj4ddPId4/s1600/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+    "purpose": "any maskable"
+  }]  
+}
