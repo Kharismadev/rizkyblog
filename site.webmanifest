@@ -1,0 +1,23 @@
+{
+    "name": "kharismacenter.com",
+    "short_name": "kharismacenter",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz-oHW1gQAHojggamMJq0KB4fU3dDolPEvORjP65h6sKh-Mwoe2V-eHtda_1VHcWrk0hSfq8BxIt69NUo3o1NjFg7RK8kovOU_aMpJtl5DQfeDCLRpoN9vmQ4iUKaxomhyjCgRl3Gji2jk88E7Bnv8JOY4jw6llb8rnM3YSvAHRp_RidJStPW-vEUf1Q/s1600/apple-touch-icon.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNaR33MsO_CJTeQRVzY53oVYR0Yhca23wXlQtDcfTD70yU6IE-fR149fPn83H1o3W8R5xp-yzW4pGK_3imShHhBkZFgEbj5BEfbcBw_ooQLhNKsQLKDq3eWXGYsWVsFCi5VE7Jrb9qiJV_FUH6gzZSjSPLoYnTlrWdk2ciUmaJc7T5DPjkg5wBlH7qPBA/s512/android-chrome-512x512%20(1).png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.kharismacenter.com"
+}
